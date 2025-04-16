@@ -7,6 +7,7 @@
 [![CodeQL](https://github.com/MakeContributions/DSA/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/MakeContributions/DSA/actions/workflows/codeql-analysis.yml)
 [![Discord](https://img.shields.io/discord/863049619734790185?color=7389D8&logo=discord&logoColor=ffffff&label=&labelColor=6A7EC2)](https://discord.gg/ydWxdqbTyK)
 
+
 # Data Structures and Algorithm
 
 Data structure and Algorithm (DSA)
